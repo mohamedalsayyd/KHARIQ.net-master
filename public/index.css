@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap');
+.responsive-logo {
+    height: auto;
+  }
+  
+  @media (max-width: 600px) {
+    .responsive-logo {
+      height: 60px;
+    }
+  }
