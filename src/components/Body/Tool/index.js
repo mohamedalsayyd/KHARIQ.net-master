@@ -51,7 +51,7 @@ function Tool() {
             >
               <CardMedia
                 component="img"
-                image={"https://khariq.storming-eg.com" + tool.img}
+                image={tool.img}
                 alt={tool.title}
                 sx={{
                   maxWidth: { md: 450 },
